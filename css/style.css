@@ -79,7 +79,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	top: 0;
 	left: 0;
 	bottom: 0;
-	background-image: url(../images/bg.jpeg);
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bascom_Hall%2C_University_of_Wisconsin%2C_Bascom_Mall%2C_Madison%2C_WI_-_54303348878.jpg/1280px-Bascom_Hall%2C_University_of_Wisconsin%2C_Bascom_Mall%2C_Madison%2C_WI_-_54303348878.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -193,7 +193,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 #profile .portrait {
-	background-image: url("../images/smallpic-modified.png");
+	background-image: url("https://media.licdn.com/dms/image/v2/D5603AQFDNaQnz3P96Q/profile-displayphoto-crop_800_800/B56Zg1TUgrHkAI-/0/1753240914519?e=1773273600&v=beta&t=1rHyxcU4yqfUFjEM_YJQFqCALBgjuqR-rSKxgwtqrCg");
 	width: 125px;
 	margin: 0 auto;
 	margin-bottom: 10px;
